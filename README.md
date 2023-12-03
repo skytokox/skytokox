@@ -1,5 +1,7 @@
 ### Hi there 👋
-
+### I'm currently working on a school project - Silly Reminds
+### I'm currently learning QT, Django, NextJS, Java
+### How to reach me: 2iamsky5@gmail.com
 <!--
 **skytokox/skytokox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
