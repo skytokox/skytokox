@@ -1,5 +1,4 @@
 ### Hi there 👋
-### I'm currently having an internship at Rocksoft
 ### I'm currently learning QT, Django, NextJS, Java, Vue
 ### How to reach me: 2iamsky5@gmail.com
 <!--
