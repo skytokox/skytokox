@@ -1,5 +1,5 @@
 ### Hi there 👋
-### I'm currently learning QT, Django, NextJS, Java, Vue
+### I'm currently learning NextJS, Astro
 ### How to reach me: 2iamsky5@gmail.com
 <!--
 **skytokox/skytokox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
